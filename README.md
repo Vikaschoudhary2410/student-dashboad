@@ -33,5 +33,3 @@ A simple web-based Student Dashboard that allows users to add student names and 
 
 ---
 
-## 📂 File Structure
-
